@@ -1,5 +1,5 @@
-# Local Web Dorks
-A local web dorking python scripts for your target website.
+# Local Web Indexing
+A local web indexing python scripts for your target website.
 
 For windows, you will need to 
 
